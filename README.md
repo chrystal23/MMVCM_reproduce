@@ -43,4 +43,4 @@ A detailed list of the files within each folder is provided below.
 
 ## Software MMVCM
 
-We provide a R-based implementation of our MMVCM method for the users' convenience. For tutorials and other detials, please check [our repository](https://github.com/chrystal23) for the MMVCM R package.
+We provide a R-based implementation of our MMVCM method for the users' convenience. For tutorials and other detials, please check [our repository](https://github.com/chrystal23/MMVCM) for the MMVCM R package.
